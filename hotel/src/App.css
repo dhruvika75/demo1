@@ -1,5 +1,19 @@
+/* <<<<<<< HEAD
 
 @import "tailwindcss";
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+>>>>>>> header-create */
+
+/* Combined changes from both branches */
+.some-class {
+  color: blue;
+}
+.some-class-alternative {
+  color: red;
+}
 .App {
   text-align: center;
 }
